@@ -16,7 +16,7 @@ A simple Python script to fetch and display the current price of Dusk Network (D
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/dusk_bot.git
+   git clone https://github.com/wolfrage76/dusk_bot.git
    cd dusk_bot
    ```
 
