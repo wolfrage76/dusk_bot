@@ -15,17 +15,20 @@ A simple Python script to fetch and display the current price of Dusk Network (D
 ## Installation
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/wolfrage76/dusk_bot.git
    cd dusk_bot
    ```
 
 2. **Install dependencies:**
+
    ```bash
    pip install requests
    ```
 
 3. **Create a `.env` file:**
+
    ```bash
    echo "DISCORD_BOT_TOKEN=your_discord_bot_token_here" > .env
    ```
